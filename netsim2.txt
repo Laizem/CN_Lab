@@ -1,3 +1,4 @@
+#lmao
 #Create Simulator
 set ns [new Simulator]
 
